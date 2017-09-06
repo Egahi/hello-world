@@ -1,2 +1,11 @@
 # hello-world
-my first repository
+
+Hi! This is my first repository!
+
+hello.cpp 
+
+this is a simple c++ program that prints hello world!
+
+this day will be remembered. 6th september, 2017
+
+this is hello!
