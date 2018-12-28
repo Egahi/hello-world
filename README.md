@@ -1,14 +1,7 @@
 # hello-world
 
-Hi! This is my first repository!
+Hi! This was my very first repository!
 
-hello.cpp 
+this repository contains scripts that print "hello world!"
 
-Egahi
-@s_egahi
-
-this is a simple c++ program that prints hello world!
-
-this day will be remembered. 6th september, 2017
-
-this is hello!
+I created my very first repository on the 6th september, 2017
